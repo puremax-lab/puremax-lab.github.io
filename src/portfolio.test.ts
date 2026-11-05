@@ -63,7 +63,7 @@ describe('language', () => {
 
     translate('fr')
 
-    expect(document.querySelector('.intro h2')).toHaveProperty('textContent', 'Cinq applications en ligne, testées et déployées.')
+    expect(document.querySelector('.intro h2')).toHaveProperty('textContent', 'Cinq applications et un site client en ligne, testés et déployés.')
     expect(document.title).toBe('Maxime Youta · Développeur web junior')
     expect(cv.getAttribute('href')).toBe('cv/CV_Maxime_Youta_Developpeur_FR.pdf')
   })

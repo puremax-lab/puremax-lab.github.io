@@ -5,7 +5,7 @@ const KEY = 'portfolio.lang'
 /** The English text of each `data-i18n` key. The French text lives in index.html. */
 export const ENGLISH: Record<string, string> = {
   'page.title': 'Maxime Youta · Junior web developer',
-  'page.description': 'Portfolio of Maxime Youta, junior web developer in Brussels: five live applications built with Symfony, Angular and React.',
+  'page.description': 'Portfolio of Maxime Youta, junior web developer in Brussels: five live applications and a client site, built with Symfony, Angular and React.',
   'side.role': 'Junior web developer',
   'side.meta': 'Brussels · available',
   'side.nav': 'Sections',
@@ -16,7 +16,7 @@ export const ENGLISH: Record<string, string> = {
   'nav.projects': 'Projects',
   'nav.path': 'Background',
   'nav.contact': 'Contact',
-  'intro.title': 'Five live applications, tested and deployed.',
+  'intro.title': 'Five applications and a client site live, tested and deployed.',
   'intro.text': 'Trained at CFITECH, I build complete applications with Symfony on the server and Angular or React on the front end, all the way to production. My years in customer relations taught me to listen to users and to explain technical work simply.',
   'projects.title': 'Projects',
   'projects.filter': 'Filter by technology',
@@ -38,7 +38,7 @@ export const ENGLISH: Record<string, string> = {
   'p.escales.kind': 'Travel journal · 90 tests',
   'p.escales.text': 'Written in plain PHP, with no framework and no JavaScript, to understand what a framework does for me: hand-built router, MVC structure and security layer.',
   'path.title': 'Background',
-  'path.vyreon.title': 'Web developer and business development',
+  'path.vyreon.title': 'Web developer and Business Developer',
   'path.vyreon.text': 'Vyreon, self-employed, Brussels. Websites for clients and sales follow-up through to contract signature.',
   'path.cfitech.title': 'Web Developer Certificate',
   'path.cfitech.text': 'CFITECH with Bruxelles Formation: 1,332 hours, from HTML to Symfony, Angular and React, with a final project and an internship at BetterflyBox.',
