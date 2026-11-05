@@ -42,7 +42,7 @@ export const ENGLISH: Record<string, string> = {
   'path.vyreon.text': 'Vyreon, self-employed, Brussels. Websites for clients and sales follow-up through to contract signature.',
   'path.cfitech.title': 'Web Developer Certificate',
   'path.cfitech.text': 'CFITECH with Bruxelles Formation: 1,332 hours, from HTML to Symfony, Angular and React, with a final project and an internship at BetterflyBox.',
-  'path.client.title': 'Customer advisor',
+  'path.client.title': 'Customer advisor and technical support',
   'path.client.text': 'Orange and IPG for Luminus: customer advice, technical support, billing, Salesforce and SAP.',
   'path.kfc.title': 'Shift leader, assistant manager',
   'path.kfc.text': 'KFC, Liège: team leadership and training, schedules and cash handling.',
