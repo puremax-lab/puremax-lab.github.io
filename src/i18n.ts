@@ -52,7 +52,7 @@ export const ENGLISH: Record<string, string> = {
   'skills.languages': 'Languages',
   'skills.languages.list': 'French and English C2, Dutch B1, German A2',
   'contact.title': "Let's work together",
-  'contact.text': 'I am looking for a first position as a full-stack, PHP/Symfony or front-end developer in Brussels.',
+  'contact.text': 'I am looking for a first position as a full-stack, PHP/Symfony or front-end (Angular, React) developer in Brussels.',
   'contact.note': 'Personal website of Maxime Youta. No cookies, no visitor analytics.',
 }
 
